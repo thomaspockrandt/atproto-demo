@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "atp": "bluesky-social/atproto"
+  }
+}
